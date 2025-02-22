@@ -1,2 +1,8 @@
-# SmartLivingInnovDesign2025
-Course Bulletin for Smart Living and Innovative Design 2025
+陽明交大 | 建築研究所 & 設計與創新科技跨越學程
+# 智慧生活與創新設計<br>Smart Living and Innovative Design 2025
+
+| 週次 | 日期 | 內容 |
+| :---: | :---: | :--- |
+| 1 | 02/21 |  課程簡介  |
+| 2 | 02/28 | 放假 |
+| 3 | 03/07 |  |
